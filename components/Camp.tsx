@@ -71,8 +71,7 @@ const Camp = () => {
             <strong>Feeling Lost</strong> And Not Knowing The Way?
           </h2>
           <p className="regular-14 xl:regular-16 mt-5 text-white">
-            Starting from the anxiety of the climbers when visiting a new climbing location, the possibility of getting lost is very large. That&apos;s why we are here for those of you who want to start an adventure
-          </p>
+            Come experience the unforgettable thrilling experience of the Maasai Mara breathtaking landscapes, incredible wildlife and unforgettable safari adventures that awaits your discovery!</p>
           <Image 
             src="/quote.svg"
             alt="camp-2"
