@@ -57,6 +57,7 @@ const Footer = () => {
         </div>
 
         <div className="border bg-gray-20 flex" />
+        <div className='flex ml-10 items-center justify-center gap-2'>
         <Link href={"https://www.linkedin.com/in/david-waweru-9040b7241/"}>
              <Image 
               src = {'/developer.png'}
@@ -66,7 +67,10 @@ const Footer = () => {
               className='rounded-full'
              />   
         </Link>
-        <p className="regular-14 w-full text-center text-gray-30">2023 Hilink | All rights reserved</p>
+        <Link href={"https://www.linkedin.com/in/david-waweru-9040b7241/"}>Meet the developer</Link>
+        <p className="regular-14 w-full text-center">2023 Hilink | All rights reserved</p>
+        </div>
+        
       </div>
     </footer>
   )
