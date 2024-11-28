@@ -5,8 +5,12 @@ import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
-  title: 'Travel',
+  title: 'Maasai Mara | travel',
   description: 'Travel UI/UX App for Camping',
+  icons: {
+    icon: '/favicon.jpg', // Path to your favicon file
+  },
+  
 }
 
 export default function RootLayout({
